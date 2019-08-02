@@ -10,7 +10,7 @@ int div_gm(int a,int b);
 int main(int argc,char *argv[])
 {
 	int a=10 , b=5;
-	i t n  i;
+	int test;
 	printf("%d+%d=%d\n", a, b, add_gm(a,b));
 	printf("%d-%d=%d\n", a, b, sub_gm(a,b));
 	printf("%d/%d=%d\n", a, b, div_gm(a,b));
